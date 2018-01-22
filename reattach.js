@@ -1,7 +1,7 @@
 var IOTA = require('iota.lib.js');
 var iota = new IOTA({
-  'host': 'http://iri1.iota.fm',
-  'port': 80
+  'host': 'http://iota-tangle.io',
+  'port': 14265
 });
 
 
